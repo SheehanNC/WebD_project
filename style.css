@@ -6,7 +6,7 @@
 }
 body{
     /*background: #222;*/
-    background: url("images/Sky.jpg");
+    background: url("Sky.jpg");
     background-repeat: no-repeat;
     background-size: cover; 
     height: 90vh;
